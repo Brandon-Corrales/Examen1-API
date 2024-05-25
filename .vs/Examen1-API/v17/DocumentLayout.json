@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brandon\\Documents\\UNA\\1\u00B0 Semestre 2024\\Programaci\u00F3n II\\Examen 1\\Examen1-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E69AB2-15B2-4C23-9562-D2A1C8CB43FB}|Examen1-API\\Examen1-API.csproj|c:\\users\\brandon\\documents\\una\\1\u00B0 semestre 2024\\programaci\u00F3n ii\\examen 1\\examen1-api\\examen1-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E69AB2-15B2-4C23-9562-D2A1C8CB43FB}|Examen1-API\\Examen1-API.csproj|solutionrelative:examen1-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E69AB2-15B2-4C23-9562-D2A1C8CB43FB}|Examen1-API\\Examen1-API.csproj|c:\\users\\brandon\\documents\\una\\1\u00B0 semestre 2024\\programaci\u00F3n ii\\examen 1\\examen1-api\\examen1-api\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E69AB2-15B2-4C23-9562-D2A1C8CB43FB}|Examen1-API\\Examen1-API.csproj|solutionrelative:examen1-api\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E69AB2-15B2-4C23-9562-D2A1C8CB43FB}|Examen1-API\\Examen1-API.csproj|c:\\users\\brandon\\documents\\una\\1\u00B0 semestre 2024\\programaci\u00F3n ii\\examen 1\\examen1-api\\examen1-api\\services\\pokemonservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E69AB2-15B2-4C23-9562-D2A1C8CB43FB}|Examen1-API\\Examen1-API.csproj|solutionrelative:examen1-api\\services\\pokemonservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E69AB2-15B2-4C23-9562-D2A1C8CB43FB}|Examen1-API\\Examen1-API.csproj|c:\\users\\brandon\\documents\\una\\1\u00B0 semestre 2024\\programaci\u00F3n ii\\examen 1\\examen1-api\\examen1-api\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E69AB2-15B2-4C23-9562-D2A1C8CB43FB}|Examen1-API\\Examen1-API.csproj|solutionrelative:examen1-api\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Documents\\UNA\\1\u00B0 Semestre 2024\\Programaci\u00F3n II\\Examen 1\\Examen1-API\\Examen1-API\\Program.cs",
+              "RelativeDocumentMoniker": "Examen1-API\\Program.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Documents\\UNA\\1\u00B0 Semestre 2024\\Programaci\u00F3n II\\Examen 1\\Examen1-API\\Examen1-API\\Program.cs",
+              "RelativeToolTip": "Examen1-API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:43:15.775Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonServices.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Documents\\UNA\\1\u00B0 Semestre 2024\\Programaci\u00F3n II\\Examen 1\\Examen1-API\\Examen1-API\\Services\\PokemonServices.cs",
+              "RelativeDocumentMoniker": "Examen1-API\\Services\\PokemonServices.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Documents\\UNA\\1\u00B0 Semestre 2024\\Programaci\u00F3n II\\Examen 1\\Examen1-API\\Examen1-API\\Services\\PokemonServices.cs",
+              "RelativeToolTip": "Examen1-API\\Services\\PokemonServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:56:06.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Documents\\UNA\\1\u00B0 Semestre 2024\\Programaci\u00F3n II\\Examen 1\\Examen1-API\\Examen1-API\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "Examen1-API\\Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Documents\\UNA\\1\u00B0 Semestre 2024\\Programaci\u00F3n II\\Examen 1\\Examen1-API\\Examen1-API\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "Examen1-API\\Controllers\\PokemonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:54:04.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon\\Documents\\UNA\\1\u00B0 Semestre 2024\\Programaci\u00F3n II\\Examen 1\\Examen1-API\\Examen1-API\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Examen1-API\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Brandon\\Documents\\UNA\\1\u00B0 Semestre 2024\\Programaci\u00F3n II\\Examen 1\\Examen1-API\\Examen1-API\\Models\\Pokemon.cs",
+              "RelativeToolTip": "Examen1-API\\Models\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:50:51.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

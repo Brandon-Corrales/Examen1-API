@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "U9dU1/wmWffVOK0BV2YWJ9gFARjQw8gh+vTrLiTzEMedttpr9hy5VUSaSqlZCXK/4pFSOUZBPqiMrdj2RlQU3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brandon\\Documents\\UNA\\1° Semestre 2024\\Programación II\\Examen 1\\Examen1-API\\Examen1-API\\Examen1-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brandon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Brandon\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Brandon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Brandon\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\Brandon\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Brandon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Brandon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
